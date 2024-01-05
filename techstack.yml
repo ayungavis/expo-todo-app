@@ -1,7 +1,8 @@
 repo_name: ayungavis/expo-todo-app
-report_id: 1f83687fc67619e7c7533378dafc6bc9
+report_id: 96a3e010dd2a0fa2a74243d2ad5c633f
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:20:52+00:00'
+timestamp: '2024-01-05T08:33:58+00:00'
 requested_by: ayungavis
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ayungavis/expo-todo-app
   detection_source: Repo Metadata
 - name: Expo
   description: Build one project that runs natively on all your users' devices
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source_url: https://github.com/ayungavis/expo-todo-app/blob/main/package.json
   detection_source: package.json
   last_updated_by: Wahyu Kurniawan
   last_updated_on: 2023-06-24 12:43:23.000000000 Z
@@ -64,6 +67,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ayungavis/expo-todo-app/blob/main/assets/fonts/OFL.txt
   detection_source: assets/fonts/OFL.txt
   last_updated_by: Wahyu Kurniawan
   last_updated_on: 2023-06-24 19:19:30.000000000 Z
@@ -89,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ayungavis/expo-todo-app
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -98,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ayungavis/expo-todo-app/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Wahyu Kurniawan
   last_updated_on: 2023-06-24 19:17:54.000000000 Z
@@ -109,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ayungavis/expo-todo-app/blob/main/package.json
   detection_source: package.json
   last_updated_by: Wahyu Kurniawan
   last_updated_on: 2023-06-24 12:43:23.000000000 Z
@@ -120,6 +127,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ayungavis/expo-todo-app/blob/main/assets/fonts/OFL.txt
   detection_source: assets/fonts/OFL.txt
   last_updated_by: Wahyu Kurniawan
   last_updated_on: 2023-06-24 19:19:30.000000000 Z
